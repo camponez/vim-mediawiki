@@ -289,5 +289,3 @@ delcommand HtmlHiLink
 if main_syntax == "html"
   unlet main_syntax
 endif
-
-
